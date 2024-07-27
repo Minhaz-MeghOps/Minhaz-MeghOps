@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Minhaz-MeghOps
+- 👋 Hi, I’m Minhaz, Security Engineer of MeghOps
 - 👀 I’m interested in Breaking Things, Revesrsing & Fixing Errors
 - 📫 How to reach me: minhaz.mypersonal@gmail.com
 
