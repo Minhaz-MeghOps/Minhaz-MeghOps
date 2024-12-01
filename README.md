@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Minhaz, Security Engineer of MeghOps
-- 👀 I’m interested in Breaking Things, Revesrsing & Fixing Errors
+- 👋 Hi, I’m Minhaz, Senior Engineer, Product Security at MeghOps
+- 👀 I’m interested in Breaking, Revesrsing & Fixing 
 - 📫 How to reach me: minhaz.mypersonal@gmail.com
 
 <!---
