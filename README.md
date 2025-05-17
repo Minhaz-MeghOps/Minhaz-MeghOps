@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Minhaz, Senior Engineer, Product Security at MeghOps
+- 👋 Hi, I’m Minhaz, Senior Engineer, Product Security at Axiler
 - 👀 I’m interested in Breaking, Revesrsing & Fixing 
 - 📫 How to reach me: minhaz.mypersonal@gmail.com
 
